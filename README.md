@@ -26,8 +26,8 @@
    <a href = "https://github.com/AlpetGexh"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
  <img src="https://img.shields.io/github/followers/alpetgexh.svg?style=social&label=Follow&maxAge=2592000" ></a>
   
-   ![Snake animation](https://github.com/AlpetGexh/AlpetGexh/blob/output/github-contribution-grid-snake.svg)
-    [![trophy](https://github-profile-trophy.vercel.app/?username=alpetgexh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+   ![Snake animation](https://github.com/AlpetGexh/AlpetGexh/blob/output/github-contribution-grid-snake.svg) <br>
+   [![trophy](https://github-profile-trophy.vercel.app/?username=alpetgexh&theme=nord)]
 </div>
 
   
