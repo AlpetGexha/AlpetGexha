@@ -1,4 +1,4 @@
-## My Profile
+## My Profile  
 <div align="center" style="display: inline_block">
   <a href="https://github.com/alpetgexh">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=alpetgexh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/alpet_gexha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/547117703064846350" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:agexha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,4 +27,7 @@
  <img src="https://img.shields.io/github/followers/alpetgexh.svg?style=social&label=Follow&maxAge=2592000" ></a>
   
    ![Snake animation](https://github.com/AlpetGexh/AlpetGexh/blob/output/github-contribution-grid-snake.svg)
+    [![trophy](https://github-profile-trophy.vercel.app/?username=alpetgexh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+
+  
