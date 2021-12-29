@@ -28,6 +28,12 @@
   
    ![Snake animation](https://github.com/AlpetGexh/AlpetGexh/blob/output/github-contribution-grid-snake.svg) <br>
    [![trophy](https://github-profile-trophy.vercel.app/?username=alpetgexh&theme=nord)]
+  <br />
+  
+<a href="https://github.com/AlpetGexh/"><img alt="AlpetG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlpetGexh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br/> <a href="https://github.com/AlpetGexh/"><img alt="" src="https://komarev.com/ghpvc/?username=AlpetGexh" /></a>
+  
 </div>
+  
+  
 
   
