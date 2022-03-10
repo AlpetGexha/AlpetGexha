@@ -24,6 +24,7 @@
  <a href="https://discordapp.com/users/547117703064846350" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:agexha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://github.com/AlpetGexh"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+   <a href = "https://www.linkedin.com/in/alpet-gexha-499b071a3/"> <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" >
  <img src="https://img.shields.io/github/followers/alpetgexh.svg?style=social&label=Follow&maxAge=2592000" ></a>
   
    ![Snake animation](https://github.com/AlpetGexh/AlpetGexh/blob/output/github-contribution-grid-snake.svg) <br>
@@ -34,6 +35,4 @@
   
 </div>
   
-  
-
-  
+ 
