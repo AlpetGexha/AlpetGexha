@@ -18,12 +18,16 @@
 </div>
   
   ##
- 
+  
 <div align="center"> 
+   <a href = "https://drive.google.com/file/d/1u-YWls2aLQyNb71XOWQw5JfKFANIL9I8/view?usp=sharing"> <img target="_blank" src="https://img.shields.io/badge/CV-Open%20CV-grey?style=for-the-badge" >
   <a href="https://www.instagram.com/alpet_gexha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/547117703064846350" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:agexha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/AlpetGexh"> <img target="_blank" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+
+    
+    
    <a href = "https://www.linkedin.com/in/alpet-gexha-499b071a3/"> <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" >
  <img src="https://img.shields.io/github/followers/alpetgexh.svg?style=social&label=Follow&maxAge=2592000" ></a>
   
