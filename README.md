@@ -9,8 +9,11 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center"  height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://laravel-livewire.com/img/twitter.png">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
@@ -21,7 +24,7 @@
   ##
   
 <div align="center"> 
-   <a href = "https://drive.google.com/file/d/1uO01zQkiozJ0kryjRz9Tq2Z2bOKZoZhw/view?usp=sharing"> <img target="_blank" src="https://img.shields.io/badge/CV-Open%20CV-grey?style=for-the-badge" >
+   <a href = "https://drive.google.com/file/d/1u8ROCLTvdPEqE2Tfz1FVo2eVnej1Kf72/view?usp=sharing"> <img target="_blank" src="https://img.shields.io/badge/CV-Open%20CV-grey?style=for-the-badge" >
   <a href="https://www.instagram.com/alpet_gexha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/547117703064846350" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:agexha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
