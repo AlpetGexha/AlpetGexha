@@ -39,7 +39,7 @@
    ![trophy](https://github-profile-trophy.vercel.app/?username=alpetgexha&theme=nord)
   <br />
   
-<a href="https://github.com/AlpetGexha/"><img alt="AlpetG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlpetGexha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br/> <a href="https://github.com/AlpetGexha/"><img alt="" src="https://komarev.com/ghpvc/?username=AlpetGexha" /></a>
+<a href="https://github.com/AlpetGexha/"><img alt="AlpetG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlpetGexha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br/> <a href="https://github.com/AlpetGexha/"><img alt="" src="https://komarev.com/ghpvc/?username=AlpetGexh" /></a>
   
 </div>
   
