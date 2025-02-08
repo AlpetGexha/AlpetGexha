@@ -23,7 +23,7 @@
   ##
   
 <div align="center"> 
-   <a href = "https://drive.google.com/file/d/1u8ROCLTvdPEqE2Tfz1FVo2eVnej1Kf72/view?usp=sharing"> <img target="_blank" src="https://img.shields.io/badge/CV-Open%20CV-grey?style=for-the-badge" >
+   <a href = "https://drive.google.com/file/d/1_DJJ-VEHEJOel5Ot5IAPXZia-ma0YHSb/view?usp=sharing"> <img target="_blank" src="https://img.shields.io/badge/CV-Open%20CV-grey?style=for-the-badge" >
   <a href = "mailto:agexha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
    <a href = "https://www.linkedin.com/in/alpet-gexha-499b071a3/"> <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" >
  <img src="https://img.shields.io/github/followers/alpetgexha.svg?style=social&label=Follow&maxAge=2592000" ></a>
